@@ -7,12 +7,12 @@ Bu veritabanı sistemi, eğitim kurumlarının sınav süreçlerini **daha hızl
 
 ## 📁 Proje İçeriği
 
-- 🛠 **`schema.sql`** → Veritabanı şema dosyası (tablolar ve ilişkiler).
-- 📝 **`queries.sql`** → Veritabanı üzerinde test edilebilecek SQL sorguları.
-- 📊 **Diyagramlar** → ER modelleri ve veritabanı şemaları:
+- **`schema.sql`** → Veritabanı şema dosyası (tablolar ve ilişkiler).
+- **`queries.sql`** → Veritabanı üzerinde test edilebilecek SQL sorguları.
+- **Diyagramlar** → ER modelleri ve veritabanı şemaları:
   - `Başlıksız Diyagram.drawio`
   - `vtys.drawio`
-- 📄 **Belgeler** → Proje dökümantasyonu ve fizibilite raporları:
+- **Belgeler** → Proje dökümantasyonu ve fizibilite raporları:
   - `vtys_fizibilite.pdf`
   - `22360859037_ErvaAygunes.pdf`
 
